@@ -1,2 +1,2 @@
 #!/bin/bash
-Function global:BEST="School"
+export BEST="School"
